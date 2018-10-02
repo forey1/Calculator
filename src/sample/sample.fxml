@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.GridPane?>
+
+<TitledPane animated="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" text="Calculator" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8">
+  <content>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+         <children>
+            <Button layoutX="121.6" layoutY="134.6" mnemonicParsing="false" prefHeight="64.0" prefWidth="167.0" text="Button" AnchorPane.bottomAnchor="185.0" AnchorPane.leftAnchor="112.0" AnchorPane.rightAnchor="319.0" AnchorPane.topAnchor="125.0" />
+         </children></AnchorPane>
+  </content>
+</TitledPane>
